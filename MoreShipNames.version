@@ -1,0 +1,12 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/wispborne/More-Ship-Names/master/MoreShipNames.version",
+  "modName": "More ProcGen Names",
+  "modThreadId": "31231",
+  "directDownloadURL": "https://github.com/wispborne/More-Ship-Names/releases/latest/download/More-Ship-Names.zip",
+  "modVersion":
+    {
+      "major": "1",
+      "minor": "13",
+      "patch": "0"
+    }
+}

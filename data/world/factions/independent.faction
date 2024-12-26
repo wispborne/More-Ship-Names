@@ -1,0 +1,18 @@
+{
+	"shipNameSources":{
+		"BRITISH_NAVY":		0.5,
+		"CELTIC":			2,
+		"CHINESE_NAVY":		0.5,
+		"FRENCH_NAVY":		0.5,
+		"GENERAL":			4,
+		"GERMAN_NAVY":		0.5,
+		"GREEK":			2,
+		"JAPANESE":			0.5,
+		"MERCANTILE":		2,
+		"PERSIAN":			0.5,
+		"PIRATE":			1,
+		"RUSSIAN_NAVY":		0.5,
+		"SPACE":			4,
+		"SPANISH_NAVY":		0.5,
+	},
+},

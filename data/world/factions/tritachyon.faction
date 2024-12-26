@@ -1,0 +1,12 @@
+{
+	"shipNameSources":{
+		"EGYPTIAN":		0,
+		"GENERAL":		0,
+		"GREEK": 		4,
+		"JAPANESE": 	6,
+		"MERCANTILE":	1,
+		"NORDIC":		0,
+		"SPACE":		2,
+	},
+},
+

@@ -1,0 +1,10 @@
+{
+	"shipNameSources":{
+		"HEGEMONY":			1,
+		"BRITISH_NAVY":		6,
+		"ROMAN":			4,
+		"GREEK":			0,
+		"SPACE":			0,
+		"GENERAL":			2,
+	},
+},

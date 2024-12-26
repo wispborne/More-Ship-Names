@@ -1,0 +1,8 @@
+{
+	"shipNameSources":{
+		"MERCANTILE":		1,
+		"SPACE":			2,
+		"DERELICT_DRONE":	4,
+		
+	},
+},

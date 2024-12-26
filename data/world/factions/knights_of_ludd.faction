@@ -1,0 +1,10 @@
+{
+	"shipNameSources":{
+		"ABRAHAMIC":		0,
+		"BRITISH_NAVY":		0,
+		"CHURCH":			0,
+		"KNIGHTS":			1,
+		"LUDDIC_PATH":		2,
+		"REVOLUTIONARY":	1,
+	},
+},
