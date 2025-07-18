@@ -2,8 +2,8 @@
 	"id": "more_ship_names", # internal id
 	"name": "More Ship Names", # displayed to the player
 	"author": "Seraphi",
-	"version": "1.13.1",
-	"description":"Adds 16,770 new thematically-appropriate names to naming lists for ships to randomly select from (and tweaks weighting values to allow the game to use them all).",
+	"version": "1.14",
+	"description":"Adds 16,000+ new thematically-appropriate names to naming lists for ships to randomly select from (and tweaks weighting values to allow the game to use them all).",
 	"gameVersion":"0.98a-RC7",
 	"utility": "true",
 }
